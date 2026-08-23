@@ -2,6 +2,8 @@
 
 A responsive, interactive two-player Tic Tac Toe game built using pure HTML, CSS, and Vanilla JavaScript.
 
+View live :- https://tic-tac-toe-eight-pi-60.vercel.app/
+
 ---
 
 ## 🎮 Features
