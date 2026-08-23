@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+
+}
+
+.main {
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1 {
+    color: white;
+
+
+}
+
+.container {
+
+    height: 315px;
+    width: 315px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    display: flex;
+    border-radius: 10px;
+    color: rgb(255, 62, 62);
+    font-weight: bolder;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+
+
+}
+
+.resetbtn {
+    background-color: rgb(227, 171, 97);
+    height: 40px;
+    width: 70px;
+
+    font-size: 15px;
+    margin: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+#newgame {
+    background-color: rgb(227, 171, 97);
+    height: 40px;
+    width: 100px;
+
+    font-size: 15px;
+    margin: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.msg {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+#msg {
+    color: white;
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+.hide {
+    display: none;
+}
